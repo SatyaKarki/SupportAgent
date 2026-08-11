@@ -95,8 +95,4 @@ Try prompts such as:
 
 ## License
 
-Add a license file if you intend to publish or distribute this project.
-
----
-
-If you want additional sections (Docker, CI templates, or API endpoint details / Swagger usage), tell me which sections to add and I will update the README.
+MIT License
